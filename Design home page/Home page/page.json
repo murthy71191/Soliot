@@ -1,0 +1,127 @@
+{
+  "_class": "page",
+  "do_objectID": "A8E15507-855E-42EC-B4AC-43CAACAF75FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5C4026C7-93B3-41B5-BF6D-2951ED2B122A"
+    },
+    {
+      "class": "artboard",
+      "id": "DA0CF6AD-92DE-4BCC-938D-8CBBE5BC61CF"
+    },
+    {
+      "class": "artboard",
+      "id": "97CEF88D-5502-4623-AE83-35EC78FBE6CD"
+    },
+    {
+      "class": "artboard",
+      "id": "3CD92BC7-1511-4E98-9388-B92A06CB0EA8"
+    },
+    {
+      "class": "artboard",
+      "id": "98848EB8-DB75-40FB-B75A-4E4B01F95EB5"
+    },
+    {
+      "class": "artboard",
+      "id": "36928E00-D420-466D-ADE4-A64966031ED8"
+    },
+    {
+      "class": "artboard",
+      "id": "307B8C64-99BF-4D1A-830F-B4577A398FB5"
+    },
+    {
+      "class": "artboard",
+      "id": "91F80186-C027-4ABC-8E4F-4E0AF5BED1C2"
+    },
+    {
+      "class": "artboard",
+      "id": "B3E47713-7A2D-46FA-BB3D-1E72F14DAACB"
+    },
+    {
+      "class": "artboard",
+      "id": "F95FF62B-0119-45ED-9EB5-A7BDBD94A864"
+    },
+    {
+      "class": "artboard",
+      "id": "8F5861D6-3C6B-4FB1-9640-90192ED588E0"
+    },
+    {
+      "class": "artboard",
+      "id": "58D71DB5-A71B-44BF-A8E6-9C112ACBCE36"
+    },
+    {
+      "class": "artboard",
+      "id": "EAB655EC-0AA8-4CA4-99FE-7670E5CD26F7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Home page",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "10"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

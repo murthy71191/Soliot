@@ -1,0 +1,47 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0E062E88-5565-4978-8288-A326692C5912",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 730.578125,
+    "width": 1104.84404536862,
+    "x": -38,
+    "y": -94.9296875
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/dc14cda968549e3bd39ab2cff48666c5d364f910",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ceiling-lights-wall-light-pendant-lighting-fixtures-light-led-lighting-sweet-antique-warehouse-light-fixtures-warehouse-light-fixtureswarehouse-light-fixtures-ledwarehouse-pendant-light-fixture",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "DDE67296-DC93-4330-9D1B-A70E73F9BBFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 78,
+    "width": 436,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "28C3BA19-F5EC-49CA-BDE9-AB14D38C029E"
+    },
+    {
+      "class": "text",
+      "id": "58BD7F32-5CBB-4D1C-9C19-02498E6B5077"
+    },
+    {
+      "class": "text",
+      "id": "7820E1AF-D703-4771-8C79-B75D767BD289"
+    },
+    {
+      "class": "text",
+      "id": "20F5D589-A22C-4044-B194-2A3C20BD8062"
+    }
+  ],
+  "name": "Infographics",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

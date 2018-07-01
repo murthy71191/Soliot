@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "7BAB490F-69C2-4FB6-82A0-0C129941DD94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 295,
+    "x": 13,
+    "y": 550
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23622578-82B9-4AD7-BE5A-27655F06CCD7"
+    },
+    {
+      "class": "bitmap",
+      "id": "E160023F-6D4B-4F64-9EEC-BD5B5A8363A9"
+    },
+    {
+      "class": "bitmap",
+      "id": "2193BAE5-3BE8-4F7D-8C0A-E4B3823BF434"
+    }
+  ],
+  "name": "shutterstock_94913344lr",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

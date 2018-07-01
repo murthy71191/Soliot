@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "8F5861D6-3C6B-4FB1-9640-90192ED588E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2727,
+    "width": 1024,
+    "x": 7094,
+    "y": -114
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F28F734-56A7-4286-8832-24E83DFE628A"
+    },
+    {
+      "class": "group",
+      "id": "13767DA4-1AB6-4BAA-B392-E5AAB569EBF4"
+    },
+    {
+      "class": "bitmap",
+      "id": "8BA7BF06-3154-4033-AA57-5BCAEBA77E72"
+    },
+    {
+      "class": "group",
+      "id": "14BA082C-504D-4BC9-8BEE-9AD9E9B6DA1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "901EE1AC-C1CB-42DA-81E9-0105BF84BCE9"
+    },
+    {
+      "class": "text",
+      "id": "97AC6FA6-987B-42A0-9DCB-16D596D1BDE5"
+    },
+    {
+      "class": "text",
+      "id": "E8F09261-CA44-469A-9793-BEA93E519DCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A055AEDC-E2FD-4F6B-8046-BBFB990469E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1A236FB-0B02-43E7-B634-100EF03BA199"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7B73E0D-B335-4345-AA4A-13FD83B61CF6"
+    },
+    {
+      "class": "text",
+      "id": "B3F5E5C3-FE4A-491E-9770-9FA5DB0E9D5C"
+    },
+    {
+      "class": "text",
+      "id": "75442885-8084-48BF-9EA7-B2ECF4B97617"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9910B9C-7B3E-468C-BD4D-2807CEE9821F"
+    },
+    {
+      "class": "text",
+      "id": "53831561-9C79-47C2-96F2-062AC20575D7"
+    },
+    {
+      "class": "group",
+      "id": "90710524-161F-4B35-B2A5-3F0F1C7280F2"
+    },
+    {
+      "class": "text",
+      "id": "8C2B02C0-3616-44F5-BDFF-E4171D7EB0BD"
+    },
+    {
+      "class": "text",
+      "id": "6A13CA46-936D-448C-826B-A4DC1B7D7BCD"
+    },
+    {
+      "class": "group",
+      "id": "707D19AF-9462-4FDA-A2DB-3981BE7C091C"
+    },
+    {
+      "class": "group",
+      "id": "834756C1-9922-4551-BB29-D1090AD4EB32"
+    },
+    {
+      "class": "group",
+      "id": "F5618C08-9320-4EF2-ACC4-EB7E972DD2FA"
+    },
+    {
+      "class": "group",
+      "id": "2C9A0DFE-8F5B-4AA0-BEBF-080CC213A279"
+    },
+    {
+      "class": "group",
+      "id": "FC382BC6-4C48-4F7E-9BCE-1392AA13263F"
+    },
+    {
+      "class": "group",
+      "id": "A69DD0BB-D300-44FF-882B-5503899DCD33"
+    },
+    {
+      "class": "group",
+      "id": "53B55FB8-3D64-4F66-95CE-F94D965C3750"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Case study",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

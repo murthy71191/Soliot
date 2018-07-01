@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "3C90A552-05E8-4185-9DBD-E23E1641A6B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 1024,
+    "x": 0,
+    "y": 1732
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "57378F9F-790B-4173-9E3F-492438445CA5"
+    },
+    {
+      "class": "group",
+      "id": "792EE819-A292-452D-B274-896C00E39B17"
+    },
+    {
+      "class": "text",
+      "id": "213FEA31-19AC-430A-8683-119920C9282A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E5AA4ED-23A6-4A5E-8374-38392B8FEE2F"
+    },
+    {
+      "class": "group",
+      "id": "8BFE6826-07AB-4218-9580-87C48D86DFA9"
+    }
+  ],
+  "name": "Case study section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

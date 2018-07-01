@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "do_objectID": "46A0DBA2-63CB-4DF6-A7B2-C2EFAA36EBEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 264,
+    "width": 937,
+    "x": 45,
+    "y": 990
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FA87D031-D52C-4CE5-81C0-4837E0F0006A"
+    },
+    {
+      "class": "group",
+      "id": "D89B94A3-174A-4C76-97F6-98913B48E8ED"
+    },
+    {
+      "class": "group",
+      "id": "5D85AD58-D89A-4368-9DC0-CCAC3A65F409"
+    },
+    {
+      "class": "text",
+      "id": "6826D683-7A4B-4782-916A-29E0F9A2833D"
+    },
+    {
+      "class": "text",
+      "id": "DE2A4F21-0139-43F8-891E-4E2C5B8C2822"
+    },
+    {
+      "class": "text",
+      "id": "CA88D78E-B60F-4676-87B1-120FA2617726"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C4AA71A-8945-497F-8EB4-A27D5ADB3A86"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCE634E1-A6C9-4043-A845-362BE330E5E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AFE44CF-3EB6-4102-BC94-754695760394"
+    },
+    {
+      "class": "text",
+      "id": "1AD005EB-0EC0-41CC-903C-2E519C912055"
+    },
+    {
+      "class": "text",
+      "id": "9A8E8456-1968-40C9-B639-EC5BC092D99C"
+    },
+    {
+      "class": "text",
+      "id": "EB28BAD2-EBAD-4A35-A4E3-03760C6600B8"
+    },
+    {
+      "class": "group",
+      "id": "6ADAD726-E630-4515-A5A3-F04368F5E610"
+    },
+    {
+      "class": "text",
+      "id": "DFA47D76-540C-488C-9FCC-9E6053488BC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AED19791-175F-4E2F-AEF2-165A18DA7D36"
+    },
+    {
+      "class": "text",
+      "id": "FC3375EF-E083-42D8-ACBF-528009287D7E"
+    }
+  ],
+  "name": "Services button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "B501F39B-DD35-47F7-B28F-CD93E4D4F3D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 969,
+    "x": 25,
+    "y": 3511
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA9D7362-076F-4C03-A169-002F5F6664A1"
+    },
+    {
+      "class": "group",
+      "id": "3F63AA4F-4222-4B25-9804-2BF0546203BB"
+    },
+    {
+      "class": "group",
+      "id": "AF60226C-A4EE-4BD0-B853-6910CFC9F2A7"
+    },
+    {
+      "class": "group",
+      "id": "98E28140-FBF8-4939-BADB-0CB649C15EA4"
+    },
+    {
+      "class": "group",
+      "id": "8D1903DA-5B46-4F47-87C4-5A81C1974CAA"
+    },
+    {
+      "class": "text",
+      "id": "C3C49989-F14A-4963-B9ED-0844A22FD11C"
+    }
+  ],
+  "name": "Partner section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

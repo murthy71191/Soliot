@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5D72121C-8BA4-4C14-851A-000DA0765314",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 179,
+    "x": 790,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "809E0051-1A05-4C60-99DB-FCF9912621DA"
+    },
+    {
+      "class": "bitmap",
+      "id": "64A2CD90-DB02-43D3-9E73-CCC43F54E0C5"
+    },
+    {
+      "class": "slice",
+      "id": "CAD07774-777A-463B-AFF0-342878252B88"
+    }
+  ],
+  "name": "Isri design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

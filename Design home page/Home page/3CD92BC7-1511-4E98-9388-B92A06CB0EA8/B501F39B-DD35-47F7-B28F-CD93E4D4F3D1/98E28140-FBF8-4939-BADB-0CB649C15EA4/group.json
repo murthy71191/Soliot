@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "98E28140-FBF8-4939-BADB-0CB649C15EA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 180,
+    "x": 600,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8182EAC2-B014-4EA8-92CE-2D01FE9C9F70"
+    },
+    {
+      "class": "bitmap",
+      "id": "F3943358-62E3-426F-AE56-4770A6316603"
+    },
+    {
+      "class": "slice",
+      "id": "ED82FE1D-DF95-4472-8D96-7467B8517EEB"
+    }
+  ],
+  "name": "Ecosoch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

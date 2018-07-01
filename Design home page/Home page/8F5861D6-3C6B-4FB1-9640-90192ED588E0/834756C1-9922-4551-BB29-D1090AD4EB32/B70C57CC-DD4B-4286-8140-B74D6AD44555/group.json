@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "B70C57CC-DD4B-4286-8140-B74D6AD44555",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 315,
+    "width": 460,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA630972-734F-433C-9533-19DCC2218BA6"
+    },
+    {
+      "class": "bitmap",
+      "id": "34E3839C-3E41-4608-A642-EB70E7EE9077"
+    },
+    {
+      "class": "bitmap",
+      "id": "CD35DDC9-EE0F-46C7-8152-399B26527CCE"
+    },
+    {
+      "class": "bitmap",
+      "id": "5328D2B4-A9B2-4CD7-BF33-67E9FF7B94D8"
+    },
+    {
+      "class": "bitmap",
+      "id": "7DBBF6D2-FBE7-4615-81AD-BD74D8E4B9DF"
+    }
+  ],
+  "name": "Rectangle 19 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/ac9a6ff89dce101de809f7555f82f6cdf2b1fab2",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

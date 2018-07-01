@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B762A37A-791E-46B2-9437-9DF3A6C92616",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 44,
+    "width": 54,
+    "x": 0,
+    "y": 0.5859375000002274
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C703B6D-EDB5-4E9E-AAB5-959A2FD1FCC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48DE5C52-D7B5-4A43-889A-A15D9147BC92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CED80AC-D672-4A48-89F4-7049A24CC9F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C228E4B-6462-4B07-BF9E-C31B5C736180"
+    }
+  ],
+  "name": "house",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

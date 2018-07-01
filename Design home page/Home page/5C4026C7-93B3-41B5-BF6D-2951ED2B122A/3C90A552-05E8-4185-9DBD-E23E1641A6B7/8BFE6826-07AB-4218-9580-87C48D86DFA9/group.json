@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "8BFE6826-07AB-4218-9580-87C48D86DFA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 161,
+    "width": 512,
+    "x": 502,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F0A6A737-C2ED-45D1-ACCA-4CBD48B388E7"
+    },
+    {
+      "class": "text",
+      "id": "C3142D9E-87E8-480B-8C2D-AD1E98257F19"
+    },
+    {
+      "class": "text",
+      "id": "89CD0487-D49C-474D-9157-D9F927B8535B"
+    }
+  ],
+  "name": "CAse study sontent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

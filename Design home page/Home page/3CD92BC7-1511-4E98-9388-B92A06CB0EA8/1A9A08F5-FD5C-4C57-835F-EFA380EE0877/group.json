@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "1A9A08F5-FD5C-4C57-835F-EFA380EE0877",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 58,
+    "x": 520,
+    "y": 2573
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2CD3DF4B-4C1D-42FE-9FF0-D23B161D5164"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "570AAA9C-C7E6-4ECE-A8BF-9AF9D92D4959"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32564AA4-8339-46D1-8130-9BCE5AE229CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "206A32A5-7543-4F97-B740-D214033D9411"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F67C83FB-D4C3-4E25-BA61-739DA3F5C5B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43F27DCE-AB6B-4706-9467-EA17CAE9EC7D"
+    },
+    {
+      "class": "group",
+      "id": "77164E1C-B48F-4D4D-940C-31A8F9C9CBEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB231492-84D4-4D02-9702-9E7511B2CBC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F2C7975-0BA4-44A6-BF90-C97A7CEBDF59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60918919-2640-4C69-940B-E161FDBEDBBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F92FADA9-824F-4442-A17D-CDC79AD4C06E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3CC935C4-558F-4EAA-8596-7F13FB8A1ABC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "952D3566-1091-4E9F-942A-73C440BDFF09"
+    },
+    {
+      "class": "group",
+      "id": "47C1A2F7-175F-4660-8A22-BFF0A0069410"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "821C2E1B-7DC0-4A95-835D-BE94E4CEF64A"
+    }
+  ],
+  "name": "slice 9",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

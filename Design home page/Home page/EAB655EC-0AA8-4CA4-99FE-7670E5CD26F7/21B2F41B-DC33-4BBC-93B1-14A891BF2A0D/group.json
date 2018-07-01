@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "21B2F41B-DC33-4BBC-93B1-14A891BF2A0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 180,
+    "x": 189,
+    "y": 2466
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "75303266-4AE7-45A8-8436-7174B2024BF9"
+    },
+    {
+      "class": "bitmap",
+      "id": "8312A12B-5572-4B28-8484-B9AFDFCF10BF"
+    },
+    {
+      "class": "slice",
+      "id": "A795F3FD-F977-4D1D-8181-1847EE18471A"
+    }
+  ],
+  "name": "smg bright",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

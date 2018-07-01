@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "795918BF-14FC-40F7-82FA-3A8B005A8493",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 621,
+    "width": 848,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B48DBD5F-73B0-4731-B8D4-1037261C8985"
+    },
+    {
+      "class": "bitmap",
+      "id": "1AE4B8F4-58B9-4B89-B2FE-3EDD812391E9"
+    },
+    {
+      "class": "bitmap",
+      "id": "763B6522-FCA1-49BC-9E7E-48FC56B29081"
+    }
+  ],
+  "name": "siddharth-kothari-417",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

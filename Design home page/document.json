@@ -1,0 +1,53 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "B7550194-9302-43FE-8C3D-D7C7FA57C09D",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "46.2",
+    "build": 44496,
+    "version": 93
+  },
+  "pages": [
+    "Home page",
+    "Solar",
+    "Led lighing",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty1": {
+      "ids": "[{\"id\":\"540554825\",\"layerId\":\"58E9174E-D525-477F-8D6D-B544B6BEF4D8\"},{\"id\":\"540272899\",\"layerId\":\"7CDE9616-6F4E-4369-9A9F-0A50571EE6C5\"},{\"id\":\"540272899\",\"layerId\":\"7CDE9616-6F4E-4369-9A9F-0A50571EE6C5\"},{\"id\":\"534113125\",\"layerId\":\"0A5162BC-8C4F-47FE-9937-440A92482D0F\"},{\"id\":\"164176365\",\"layerId\":\"CD0BD03D-3638-48F1-92D7-28A164C01EB0\"},{\"id\":\"527961035\",\"layerId\":\"B70C57CC-DD4B-4286-8140-B74D6AD44555\"},{\"id\":\"537450031\",\"layerId\":\"4F4EA24D-1522-48F1-A3CC-26F9CECEE1F7\"},{\"id\":\"586665219\",\"layerId\":\"50FE62C2-4E53-433B-A8CC-CBB2DDC06D42\"},{\"id\":\"109377157\",\"layerId\":\"72303264-B075-4959-82CD-7C04438D204A\"},{\"id\":\"559423611\",\"layerId\":\"68FAC4D2-6BE6-4715-BAFF-21D054405767\"},{\"id\":\"181957771\",\"layerId\":\"5E957CD4-8A82-410F-BBF3-73E8ED3AF36C\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"projectId\":10670995,\"publicLink\":\"https://invis.io/PHB36QLW6\",\"hasSynced\":true,\"hasProjectIdChanged\":false,\"syncAll\":true}"
+    },
+    "com.lingoapp.lingo": {
+      "first_version": 79,
+      "version": 79
+    },
+    "com.zeroheight.plugin": {
+      "itemsVersions": "{}"
+    }
+  }
+}

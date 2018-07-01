@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "470AEB68-7AC8-46EA-9764-ABFEFC79947A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 1024,
+    "x": 0,
+    "y": 1465.67578125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "855E8D66-DB62-49A3-83DF-38146722986A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC9B970D-3678-4F8E-9AF9-01ABF8164152"
+    },
+    {
+      "class": "group",
+      "id": "CEEB252C-01B7-429C-8E3B-AAC79DB47EE0"
+    },
+    {
+      "class": "text",
+      "id": "0B7BF3C4-4611-4FE8-A63C-A2D53FD489DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52158896-BF86-4127-A17C-97FB8D0A0C97"
+    },
+    {
+      "class": "group",
+      "id": "BEF128B9-2FBB-4E6B-916E-4D6091D1293C"
+    }
+  ],
+  "name": "Case study section Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

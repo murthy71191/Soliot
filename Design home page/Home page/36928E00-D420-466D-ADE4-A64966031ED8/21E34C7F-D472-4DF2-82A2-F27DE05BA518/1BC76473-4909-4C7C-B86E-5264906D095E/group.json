@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1BC76473-4909-4C7C-B86E-5264906D095E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 621,
+    "width": 848,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "337CF169-CAF6-4A80-B65D-3324D33145BE"
+    },
+    {
+      "class": "bitmap",
+      "id": "7A23F74F-9A79-40A8-BE48-47185CACB60E"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD4749F0-6153-4EE5-81AC-065776B2338C"
+    },
+    {
+      "class": "bitmap",
+      "id": "58835013-097B-4B7D-A41E-9CDE658C9526"
+    }
+  ],
+  "name": "siddharth-kothari-417",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AA028AE8-BC94-4256-BFCB-373C63F83EC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 161,
+    "width": 512,
+    "x": 502,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7CD22A21-A41D-4922-8DC8-A8E04DFDEC4B"
+    },
+    {
+      "class": "text",
+      "id": "125D1AB4-2859-42E8-8075-74668F37B6C1"
+    },
+    {
+      "class": "text",
+      "id": "8394A125-1FED-4E00-957E-B00FD2E0EE88"
+    }
+  ],
+  "name": "CAse study sontent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

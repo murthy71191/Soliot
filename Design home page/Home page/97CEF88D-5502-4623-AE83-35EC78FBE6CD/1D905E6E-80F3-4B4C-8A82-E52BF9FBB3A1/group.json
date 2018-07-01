@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "1D905E6E-80F3-4B4C-8A82-E52BF9FBB3A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 1024,
+    "x": 0,
+    "y": 2237
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1CACD704-C380-486B-BA99-82F5CCA7964B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72ABA4F2-0EE6-454B-9F93-C5B4E9A29475"
+    },
+    {
+      "class": "group",
+      "id": "75BE1AE8-CE17-4ACF-886B-3169EB7BC706"
+    },
+    {
+      "class": "text",
+      "id": "01E26D86-ED50-478E-BAAE-E694B7ED157E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7A20A20-F40A-45A9-9D99-6EC76066C30C"
+    },
+    {
+      "class": "group",
+      "id": "18C1904B-2D08-4C42-87CF-E65E18B410F8"
+    }
+  ],
+  "name": "Case study section Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
