@@ -22,9 +22,10 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/dc14cda968549e3bd39ab2cff48666c5d364f910",
+    "_ref": "images/dc14cda968549e3bd39ab2cff48666c5d364f910.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,8 +33,6 @@
   "layerListExpandedType": 0,
   "name": "ceiling-lights-wall-light-pendant-lighting-fixtures-light-led-lighting-sweet-antique-warehouse-light-fixtures-warehouse-light-fixtureswarehouse-light-fixtures-ledwarehouse-pendant-light-fixture",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

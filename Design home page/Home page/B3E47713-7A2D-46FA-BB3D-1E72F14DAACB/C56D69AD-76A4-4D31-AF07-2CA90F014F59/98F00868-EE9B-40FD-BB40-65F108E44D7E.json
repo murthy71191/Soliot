@@ -22,9 +22,10 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/b612f16c25b7b2d84752c7c7e97019dc7b41228c",
+    "_ref": "images/b612f16c25b7b2d84752c7c7e97019dc7b41228c.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,8 +33,6 @@
   "layerListExpandedType": 0,
   "name": "4a8f1ae7ebfd909db41e950aafbd115c",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

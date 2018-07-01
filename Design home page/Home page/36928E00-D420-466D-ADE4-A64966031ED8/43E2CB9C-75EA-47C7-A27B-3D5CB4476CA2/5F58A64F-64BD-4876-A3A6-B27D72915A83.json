@@ -22,9 +22,10 @@
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/e5734c9faebd0a1a5c1fe5388bf0bd1e14d97451",
+    "_ref": "images/e5734c9faebd0a1a5c1fe5388bf0bd1e14d97451.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,8 +33,6 @@
   "layerListExpandedType": 0,
   "name": "American-Village-Wooden-chandeliers-living-room-lights-restaurant-Cafe-wooden-ball-chandelier-lamp-Southeast-Mediterranean",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
